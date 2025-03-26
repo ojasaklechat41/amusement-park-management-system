@@ -1,0 +1,1 @@
+Displays rides and operational details
