@@ -1,0 +1,1 @@
+Handles analysis views and interactions with analytics
