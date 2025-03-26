@@ -1,0 +1,1 @@
+Serializes analytics data for usage
