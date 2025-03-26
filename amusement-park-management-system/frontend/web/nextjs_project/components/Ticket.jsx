@@ -1,0 +1,1 @@
+Reusable ticket component for various views
