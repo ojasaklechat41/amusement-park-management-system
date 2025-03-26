@@ -1,0 +1,1 @@
+Component displaying ride details
