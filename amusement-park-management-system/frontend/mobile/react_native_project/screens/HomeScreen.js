@@ -1,0 +1,1 @@
+Mobile app home screen with navigation options
