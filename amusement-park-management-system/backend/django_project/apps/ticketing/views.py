@@ -1,0 +1,1 @@
+Handles ticket purchase and entry validation
