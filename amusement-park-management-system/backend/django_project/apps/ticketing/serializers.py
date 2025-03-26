@@ -1,0 +1,1 @@
+Serializes ticket data for API usage
