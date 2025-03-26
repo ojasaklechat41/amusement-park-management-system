@@ -1,0 +1,1 @@
+Tests for ride management views
