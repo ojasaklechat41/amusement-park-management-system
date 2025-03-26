@@ -1,0 +1,1 @@
+Defines ticketing system models, including ticket and QR code entities
