@@ -1,0 +1,1 @@
+Models describing ride-related entities such as Ride, WaitTimes, and Sensors
