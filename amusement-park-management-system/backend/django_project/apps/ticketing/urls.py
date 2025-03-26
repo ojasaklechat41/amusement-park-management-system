@@ -1,0 +1,1 @@
+Maps ticketing URLs to views
