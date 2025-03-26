@@ -1,0 +1,1 @@
+Defines user roles such as Visitor, Park Admin, and Staff
