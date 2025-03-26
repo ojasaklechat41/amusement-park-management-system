@@ -1,0 +1,1 @@
+Handles user operations including authentication and role-based access
