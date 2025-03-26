@@ -1,0 +1,1 @@
+Serializes user data for APIs
