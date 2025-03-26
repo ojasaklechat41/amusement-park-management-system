@@ -1,0 +1,1 @@
+Handles ride management including availability and safety monitoring
