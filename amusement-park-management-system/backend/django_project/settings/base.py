@@ -1,0 +1,1 @@
+Base configuration including common settings
