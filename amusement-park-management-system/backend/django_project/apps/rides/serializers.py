@@ -1,0 +1,1 @@
+Serializes ride data for API communication
