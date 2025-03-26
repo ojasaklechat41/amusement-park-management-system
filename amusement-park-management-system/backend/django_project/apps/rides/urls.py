@@ -1,0 +1,1 @@
+Maps ride URLs to views
