@@ -1,0 +1,1 @@
+Maps analytics URLs to views
